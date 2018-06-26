@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class UIManager : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+    public MenuManager M_menuManager;
+    
+    // Use this for initialization
+        void Start () {
 		
 	}
 	

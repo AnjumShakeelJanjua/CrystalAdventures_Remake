@@ -4,5 +4,6 @@ using UnityEngine;
 
 public class InteractableItems : MonoBehaviour
 {
-
+    [SerializeField]
+    private List<Interactables> InteractablesList;
 }
