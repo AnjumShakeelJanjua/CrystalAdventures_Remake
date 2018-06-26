@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InteractableCrate" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactables\InteractableCrate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractableItems" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactables\InteractableItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interactables" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactables\Interactables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractableSwitch" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactables\InteractableSwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractableWater" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactables\InteractableWater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CutSceneManager" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\CutSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyManager" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentManager" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\EnvironmentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAiAAAAQACAAAAAAAAEAAAAQAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManager" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryManager" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\InventoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerManager" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerView" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\PlayerView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoadingManager" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\SceneLoadingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuManager" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAQAICAAgAAAAAGAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuState" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgAAAAAAABAAAAAEAABAAIAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\MenuState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentData" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\EnvironmentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryData" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\InventoryData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelData" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\LevelData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsData" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\ModelsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerData" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\PlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateManager" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
